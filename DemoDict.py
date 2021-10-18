@@ -29,4 +29,4 @@ def intersect(prelist, postlist):
     return result
 
 # 함수 호출
-print(intersect("HAM","SPAM"))
+print(intersect("HAM","SPAM")) 
